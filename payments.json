@@ -1,0 +1,24 @@
+{
+    "status":true,
+    "message":"Payments returned successfully",
+    "data":[
+        {
+            "id":1,
+            "ammount":50
+        },
+
+        {
+            "id":2,
+            "ammount":50
+        },
+        {
+            "id":3,
+            "ammount":50
+        },
+        {
+            "id":3,
+            "ammount":50
+        }
+    ]
+
+}

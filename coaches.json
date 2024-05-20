@@ -1,0 +1,44 @@
+{
+
+    "recieved":true,
+    "data":[
+        {
+            "id":1,
+            "name":"bob",
+            "photo":"/photos/1.jpg",
+            "courses":[
+                {
+                    "id":1,
+                    "name":"basketball"
+                },
+                {
+                    "id":2,
+                    "name":"football"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "name":"hassan",
+            "photo":"/photos/2.jpg",
+            "courses":null
+        },
+        {
+            "id":3,
+            "name":"ali",
+            "photo":"/photos/3.jpg",
+            "courses":[
+                {
+                    "id":1,
+                    "name":"voly"
+                },
+                {
+                    "id":2,
+                    "name":"tennis"
+                }
+            ]
+        }
+    ]
+
+
+}
